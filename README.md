@@ -1,5 +1,5 @@
 # Nintendo-Switch-2-Theme-for-Nintendo-Switch
-This is the main menu theme for the Nintendo Switch, which was developed for firmware version 19. **It is not recommended to install firmware version 20!**
+This theme for the Nintendo Switch's main menu was created for firmware 19. **Please note that installation on firmware version 20 is not advised.**
 
-The theme is an attempt to bring the look and feel of Nintendo Switch 2 to the Nintendo Switch. The theme is intended **for Emunand only**. It has removed the eShop, NSO, and News icons. And the color of the album icon was changed to gray for better visual aesthetics.
+It aims to give your Nintendo Switch the appearance and atmosphere of a potential Nintendo Switch 2. **This theme is exclusively for use with Emunand.** It removes the icons for the eShop, NSO, and News, and the Album icon's color has been altered to gray for an improved visual style.
 ![Switch 2 Banned Light](https://github.com/user-attachments/assets/a742da61-c86f-42a5-8565-f781a73838f8)
