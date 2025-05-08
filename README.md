@@ -7,6 +7,8 @@ The basis for this theme was [Banned](https://themezer.net/layouts/homemenu/Bann
 
 To remove the bottom line, I used Common Layout with [Flow Layout](https://themezer.net/layouts/homemenu/Flow-Layout-5).
 
+All design were created in [Figma](https://www.figma.com/design/i0rL3mLoNNcL9llyaiFOdc/Switch-2-Switch-Theme?node-id=0-1&t=YALWsuX1J6M1Bcow-1). So you can make a duplicate of this and modify it as you want.
+
 The theme was created in light and dark versions. Don't forget to switch between system themes so that the icons don't blend into the background.
 
 # Screenshots for Light theme
