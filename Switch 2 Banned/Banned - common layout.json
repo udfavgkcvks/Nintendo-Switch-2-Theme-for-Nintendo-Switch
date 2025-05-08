@@ -1,0 +1,17 @@
+{
+    "PatchName": "No Footer",
+    "AuthorName": "Migush",
+    "TargetName": "common.szs",
+    "ID": "Themezer:8-common",
+    "Files": [
+        {
+            "FileName": "blyt/Footer.bflyt",
+            "Patches": [
+                {
+                    "PaneName": "L_Footer",
+                    "Visible": false
+                }
+            ]
+        }
+    ]
+}
